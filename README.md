@@ -47,11 +47,12 @@ Here are some key features :
 
 
 <b>Home Page </b> 
-<img width="833" height="881" alt="image" src="https://github.com/user-attachments/assets/421dcbe0-3d3c-41bd-a711-2a371efc33c5" />
+<img width="707" height="785" alt="image" src="https://github.com/user-attachments/assets/9180f821-0c72-4259-82b3-aa0574f281cf" />
+
 
 
 <b>AI Insights Generation:</b> 
-<img width="833" height="881" alt="image" src="https://github.com/user-attachments/assets/9ee0722f-6b78-4bcf-8caa-b0b523c154e1" />
+<img width="812" height="799" alt="image" src="https://github.com/user-attachments/assets/8c27008a-c7af-4b19-bae1-d3dce94d213f" />
 
 
 
